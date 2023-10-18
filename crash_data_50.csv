@@ -1,0 +1,101 @@
+OBJECTID,advisorySpeed,bicycle,bridge,bus,carStationWagon,cliffBank,crashDirectionDescription,crashFinancialYear,crashLocation1,crashLocation2,crashRoadSideRoad,crashSeverity,crashSHDescription,crashYear,debris,directionRoleDescription,ditch,fatalCount,fence,flatHill,guardRail,holiday,houseOrBuilding,intersection,kerb,light,minorInjuryCount,moped,motorcycle,NumberOfLanes,objectThrownOrDropped,otherObject,otherVehicleType,overBank,parkedVehicle,pedestrian,phoneBoxEtc,postOrPole,region,roadCharacter,roadLane,roadSurface,roadworks,schoolBus,seriousInjuryCount,slipOrFlood,speedLimit,strayAnimal,streetLight,suv,taxi,temporarySpeedLimit,tlaName,trafficControl,trafficIsland,trafficSign,train,tree,truck,unknownVehicleType,urban,vanOrUtility,vehicle,waterRiver,weatherA,weatherB,lat,lng
+
+80,,0,,0,1,,North,2000/2001,SH 1N,MANUKAU OFF SBD,,Non-Injury Crash,Yes,2001,,South,,0,,Flat,,,,,,Overcast,0,0,0,3,,,0,,,,,,Auckland Region,Nil,1-way,Sealed,,0,0,,100,,Off,0,0,,Auckland,Nil,,,,,1,0,Open,0,,,Fine,Null,-36.9870855821721,174.885385582685
+
+160,,0,0,0,1,0,Null,2002/2003,SH 1N,ROWE ROAD,,Minor Crash,Yes,2002,0,North,0,0,0,Flat,0,,0,,0,Dark,1,0,0,3,0,0,0,0,0,,0,0,Manawatū-Whanganui Region,Nil,2-way,Sealed,0,0,0,0,100,0,On,0,0,,Manawatu District,Stop,0,1,0,0,0,0,Open,1,0,0,Heavy rain,Null,-40.2569761312752,175.388698343564
+
+240,,0,,0,2,,Null,2000/2001,GOWING DRIVE,TIPENE PLACE,,Non-Injury Crash,No,2001,,West,,0,,Hill Road,,,,,,Bright sun,0,0,0,2,,,0,,,,,,Auckland Region,Nil,2-way,Sealed,,0,0,,50,,Off,0,0,,Auckland,Nil,,,,,0,0,Urban,0,,,Fine,Null,-36.8668232122794,174.832943791477
+
+320,,0,,0,2,,North,2001/2002,Z CPK PAKURANGA PLAZA,TI RAKAU DRIVE,,Non-Injury Crash,No,2001,,North,,0,,Flat,,,,,,Overcast,0,0,0,0,,,0,,,,,,Auckland Region,Nil,Off road,Sealed,,0,0,,30,,Off,0,0,,Auckland,Nil,,,,,0,0,Urban,0,,,Fine,Null,-36.9142655328738,174.87132246419
+
+400,,0,,0,2,,Null,2001/2002,GREAT SOUTH ROAD,SPARTAN ROAD,,Non-Injury Crash,No,2001,,South,,0,,Flat,,,,,,Bright sun,0,0,0,4,,,0,,,,,,Auckland Region,Nil,2-way,Sealed,,0,0,,70,,Off,0,0,,Auckland,Stop,,,,,0,0,Urban,0,,,Fine,Null,-37.0365540622936,174.910431531066
+
+480,,0,,0,2,,Null,2001/2002,EAST TAMAKI ROAD,NEWBURY ST,,Non-Injury Crash,No,2001,,East,,0,,Flat,,,,,,Overcast,0,0,0,6,,,0,,,,,,Auckland Region,Nil,2-way,Sealed,,0,0,,50,,Off,0,0,,Auckland,Traffic Signals,,,,,0,0,Urban,0,,,Fine,Null,-36.9625699182615,174.871718143446
+
+560,,0,0,0,1,1,South,2000/2001,SH 2,BLUEGUM FLAT OBR,,Non-Injury Crash,Yes,2001,0,West,0,0,0,Hill Road,0,,0,,0,Bright sun,0,0,0,2,0,0,0,0,0,,0,0,Hawke's Bay Region,Nil,2-way,Sealed,0,0,0,0,100,0,Null,0,0,,Wairoa District,Nil,0,0,0,0,0,0,Open,0,0,0,Fine,Null,-39.0630101313493,177.115400323368
+
+640,,0,0,0,3,0,North,2000/2001,TAYLOR ST,MATATA ST,,Non-Injury Crash,No,2001,0,North,0,0,0,Hill Road,0,,0,,0,Bright sun,0,0,0,2,0,0,0,0,1,,0,0,Auckland Region,Nil,2-way,Sealed,0,0,0,0,50,0,Off,0,0,,Auckland,Nil,0,0,0,0,0,0,Urban,0,0,0,Fine,Null,-36.9125643911827,174.695918876044
+
+720,,0,,0,2,,Null,2000/2001,BURLINGTON ST,QUEENS GARDENS W,,Non-Injury Crash,Yes,2001,,East,,0,,Flat,,,,,,Bright sun,0,0,0,4,,,0,,,,,,Otago Region,Nil,1-way,Sealed,,0,0,,50,,Null,0,0,,Dunedin City,Traffic Signals,,,,,0,0,Urban,0,,,Fine,Null,-45.8770007232522,170.504477595913
+
+800,,0,,0,2,,Null,2001/2002,LATHAM ST,VIGOR BROWN ST,,Non-Injury Crash,No,2001,,North,,0,,Flat,,,,,,Overcast,0,0,0,2,,,0,,,,,,Hawke's Bay Region,Nil,2-way,Sealed,,0,0,,50,,Null,0,0,,Napier City,Stop,,,,,0,0,Urban,0,,,Fine,Null,-39.5020657019332,176.910125151336
+
+880,,0,0,0,2,0,South,2000/2001,Z CPK WAREHOUSE,TI RAKAU DRIVE,,Non-Injury Crash,No,2001,0,South,0,0,0,Flat,0,,0,,0,Bright sun,0,0,0,2,0,0,0,0,1,,0,0,Auckland Region,Nil,Off road,Sealed,0,0,0,0,30,0,None,0,0,,Auckland,Nil,0,0,0,0,0,0,Urban,0,0,0,Fine,Null,-36.9302336039591,174.914498980848
+
+960,,0,0,0,2,0,West,2000/2001,BLACKHEAD ROAD,EMERSON ST,,Non-Injury Crash,No,2001,0,East,0,0,0,Flat,0,,0,,0,Dark,0,0,0,2,0,0,0,0,0,,0,0,Otago Region,Nil,2-way,Sealed,0,0,0,0,100,0,None,0,0,,Dunedin City,Unknown,0,0,0,0,0,0,Open,0,1,0,Light rain,Null,-45.9146660268207,170.45418726101
+
+1040,,0,,0,1,,Null,2000/2001,BLAKISTON ST,HOON HAY ROAD,,Non-Injury Crash,No,2001,,North,,0,,Flat,,,,,,Overcast,0,0,0,2,,,0,,,,,,Canterbury Region,Nil,2-way,Sealed,,0,0,,50,,Null,0,0,,Christchurch City,Nil,,,,,1,0,Urban,0,,,Fine,Null,-43.570921543171,172.611886957705
+
+1120,,0,,0,1,,East,2001/2002,SH 7,SPRINGLANDS CRK BR,,Non-Injury Crash,Yes,2001,,West,,0,,Flat,,,,,,Bright sun,0,0,0,2,,,0,,,,,,West Coast Region,Nil,2-way,Sealed,,0,0,,100,,Null,0,0,,Buller District,Unknown,,,,,0,0,Open,0,,,Fine,Null,-42.346072418339,172.186306569103
+
+1200,,0,,0,2,,East,2001/2002,RANFURLY ST,FERGUSSON DRIVE,,Non-Injury Crash,No,2001,,West,,0,,Flat,,,,,,Bright sun,0,0,0,2,,,0,,,,,,Wellington Region,Nil,2-way,Sealed,,0,0,,50,,Null,0,0,,Upper Hutt City,Nil,,,,,0,0,Urban,0,,,Fine,Null,-41.1339343490779,175.04007989279
+
+1280,,0,0,0,0,1,West,2001/2002,RIMMER ROAD,SH 16,,Minor Crash,No,2002,0,West,0,0,0,Hill Road,0,,0,,0,Twilight,2,0,0,2,0,0,0,0,0,,0,0,Auckland Region,Nil,2-way,Unsealed,0,0,0,0,100,0,None,0,0,,Auckland,Nil,0,0,0,0,0,0,Open,1,0,0,Fine,Null,-36.6886001027973,174.390953934899
+
+1360,55,0,0,0,0,1,East,2001/2002,GRAYS ROAD,POPE ST,,Non-Injury Crash,No,2001,0,East,0,0,0,Hill Road,0,,0,,0,Dark,0,0,0,2,0,0,0,0,0,,0,0,Wellington Region,Nil,2-way,Sealed,0,0,0,0,100,0,None,0,0,,Porirua City,Nil,0,0,0,0,0,0,Open,1,0,0,Fine,Null,-41.0868874784403,174.878690682806
+
+1440,,0,,0,1,,North,2001/2002,RANGITIKEI ST,QUEEN ST,,Non-Injury Crash,No,2001,,North,,0,,Flat,,,,,,Bright sun,0,0,0,4,,,0,,,,,,Manawatū-Whanganui Region,Nil,2-way,Sealed,,0,0,,50,,Null,0,0,,Palmerston North City,Nil,,,,,0,0,Urban,1,,,Fine,Null,-40.3534972269513,175.609113823898
+
+1520,,0,0,0,2,0,Null,2001/2002,FRANKLEIGH ST,BARRINGTON ST,,Non-Injury Crash,No,2001,0,East,0,0,0,Flat,0,,0,,0,Dark,0,0,0,2,0,0,0,0,0,,0,1,Canterbury Region,Nil,2-way,Sealed,0,0,0,0,50,0,On,0,0,,Christchurch City,Traffic Signals,0,0,0,0,0,0,Urban,0,0,0,Fine,Null,-43.558325224257,172.620089991829
+
+1600,,0,,0,2,,South,2001/2002,MONTGOMERY CRESCENT,FERGUSSON DRIVE,,Non-Injury Crash,No,2001,,North,,0,,Flat,,,,,,Bright sun,0,0,0,2,,,0,,,,,,Wellington Region,Nil,2-way,Sealed,,0,0,,50,,Null,0,0,,Upper Hutt City,Nil,,,,,0,0,Urban,0,,,Fine,Null,-41.1174938176343,175.089439859694
+
+1680,,0,,0,2,,Null,2000/2001,MILNERS ROAD,DUKES ROAD NORTH,,Non-Injury Crash,No,2001,,East,,0,,Flat,,,,,,Overcast,0,0,0,2,,,0,,,,,,Otago Region,Nil,2-way,Sealed,,0,0,,100,,Null,0,0,,Dunedin City,Give way,,,,,0,0,Open,0,,,Fine,Null,-45.8462015659213,170.396112078616
+
+1760,,0,,0,2,,Null,2001/2002,Z CPK SHOPPING CENTRE,SWANSEA/HENDERSON,,Non-Injury Crash,No,2001,,West,,0,,Flat,,,,,,Overcast,0,0,0,1,,,0,,,,,,Hawke's Bay Region,Nil,Off road,Sealed,,0,0,,50,,Null,0,0,,Hastings District,Nil,,,,,0,0,Urban,0,,,Fine,Null,-39.6255937238996,176.787310876691
+
+1840,65,0,0,0,1,0,North,2001/2002,TE OHAKI ROAD,HARRIS ST,,Non-Injury Crash,No,2001,0,North,0,0,1,Flat,0,,0,,0,Overcast,0,0,0,2,0,0,0,0,0,,0,1,Waikato Region,Nil,2-way,Sealed,0,0,0,0,100,0,None,0,0,,Waikato District,Nil,0,0,0,0,0,0,Open,0,0,0,Light rain,Null,-37.4691103699563,175.144531803071
+
+1920,,0,,0,2,,Null,2001/2002,NGAUMUTAWA ROAD,RENALL ST,,Non-Injury Crash,No,2001,,North,,0,,Flat,,,,,,Overcast,0,0,0,2,,,0,,,,,,Wellington Region,Nil,2-way,Sealed,,0,0,,50,,Null,0,0,,Masterton District,Give way,,,,,0,0,Urban,1,,,Light rain,Null,-40.9464024052773,175.637386137908
+
+2000,,0,0,0,1,0,East,2000/2001,NORTHCOTE ROAD,SAWYERS ARMS ROAD E,,Non-Injury Crash,No,2001,0,East,0,0,0,Flat,0,,0,,0,Twilight,0,0,0,2,0,0,0,0,0,,0,0,Canterbury Region,Nil,2-way,Sealed,0,0,0,0,50,0,On,0,0,,Christchurch City,Unknown,1,0,0,0,0,0,Urban,0,0,0,Fine,Null,-43.484238252366,172.601584809175
+
+2080,35,0,0,0,1,0,West,2001/2002,SH 2,RIMUTAKA SUM,,Non-Injury Crash,Yes,2001,0,West,0,0,1,Hill Road,0,,0,,0,Overcast,0,0,0,2,0,0,0,1,0,,0,0,Wellington Region,Nil,2-way,Sealed,0,0,0,0,100,0,Off,0,0,,Upper Hutt City,Nil,0,0,0,0,0,0,Open,0,0,0,Light rain,Null,-41.1150803608353,175.229198275071
+
+2160,,0,,0,3,,South,2001/2002,HASTINGS ST,TENNYSON ST,,Non-Injury Crash,No,2001,,South,,0,,Flat,,,,,,Dark,0,0,0,2,,,0,,,,,,Hawke's Bay Region,Nil,2-way,Sealed,,0,0,,50,,On,0,1,,Napier City,Traffic Signals,,,,,0,0,Urban,0,,,Light rain,Null,-39.4895637476886,176.918164801738
+
+2240,,0,,0,2,,Null,2000/2001,GREAT NORTH ROAD,VIEW ROAD,,Non-Injury Crash,No,2001,,North,,0,,Flat,,,,,,Overcast,0,0,0,5,,,0,,,,,,Auckland Region,Nil,2-way,Sealed,,0,0,,50,,Off,0,0,,Auckland,Traffic Signals,,,,,0,0,Urban,0,,,Light rain,Null,-36.8939919516481,174.644974786531
+
+2320,,0,0,0,0,0,West,2000/2001,SH 3,DUDDINGS LAKE ROAD,,Non-Injury Crash,Yes,2001,0,East,1,0,1,Flat,0,,0,,0,Overcast,0,0,0,2,0,0,0,0,0,,0,0,Manawatū-Whanganui Region,Nil,2-way,Sealed,0,0,0,0,100,0,Null,0,0,,Rangitikei District,Nil,0,0,0,0,0,0,Open,1,0,0,Light rain,Null,-40.0917305003928,175.276888282452
+
+2400,,0,,0,2,,West,2001/2002,MIRAMAR AVENUE,PARK ROAD,,Non-Injury Crash,No,2001,,East,,0,,Flat,,,,,,Overcast,0,0,0,2,,,0,,,,,,Wellington Region,Nil,2-way,Sealed,,0,0,,50,,Null,0,0,,Wellington City,Nil,,,,,0,0,Urban,0,,,Fine,Null,-41.3154111221941,174.814132678211
+
+2480,,0,,0,2,,Null,2001/2002,SH 57,SUMMERHILL DRIVE,,Non-Injury Crash,Yes,2001,,West,,0,,Flat,,,,,,Overcast,0,0,0,2,,,0,,,,,,Manawatū-Whanganui Region,Nil,2-way,Sealed,,0,0,,50,,Null,0,0,,Palmerston North City,Give way,,,,,0,0,Urban,0,,,Heavy rain,Null,-40.38830891169,175.635843811995
+
+2560,,0,,0,2,,South,2001/2002,HERETAUNGA ST WEST,PAKOWHAI ROAD,,Non-Injury Crash,No,2001,,North,,0,,Flat,,,,,,Bright sun,0,0,0,2,,,0,,,,,,Hawke's Bay Region,Nil,2-way,Sealed,,0,0,,50,,Null,0,0,,Hastings District,Nil,,,,,0,0,Urban,0,,,Fine,Null,-39.6313938122737,176.832017656295
+
+2640,,0,0,0,1,0,South,2001/2002,ATKINSON ST,STOUT ST,,Non-Injury Crash,No,2001,0,South,0,0,0,Hill Road,0,,0,,0,Dark,0,0,0,2,0,0,0,0,0,,0,1,Gisborne Region,Nil,2-way,Sealed,0,0,0,0,50,0,On,0,0,,Gisborne District,Nil,0,0,0,0,0,0,Urban,0,0,0,Light rain,Null,-38.646165874953,178.007138849035
+
+2720,,0,,0,1,,North,2001/2002,MAIN ROAD,ONEPOTO ROAD,,Non-Injury Crash,No,2001,,South,,0,,Flat,,,,,,Bright sun,0,0,0,2,,,0,,,,,,Wellington Region,Nil,2-way,Sealed,,0,0,,50,,Null,0,0,,Porirua City,Nil,,,,,0,0,Urban,1,,,Fine,Null,-41.1127503512082,174.843412669663
+
+2800,,0,,0,2,,East,2001/2002,SH 3 LEACH,ELIOT ST,,Non-Injury Crash,Yes,2001,,West,,0,,Flat,,,,,,Overcast,0,0,0,2,,,0,,,,,,Taranaki Region,Nil,1-way,Sealed,,0,0,,50,,Null,0,0,,New Plymouth District,Nil,,,,,0,0,Urban,1,,,Fine,Null,-39.056709928828,174.084142710096
+
+2880,,0,,0,2,,East,2000/2001,QUEENS DRIVE,THE ESPLANADE,,Non-Injury Crash,No,2001,,East,,0,,Flat,,,,,,Dark,0,0,0,2,,,0,,,,,,Wellington Region,Nil,2-way,Sealed,,0,0,,50,,None,0,0,,Wellington City,Nil,,,,,0,0,Urban,0,,,Fine,Null,-41.3450071843842,174.788910366904
+
+2960,,0,0,0,2,0,North,2001/2002,SH 1N,NORTHCOTE OBR,,Non-Injury Crash,Yes,2002,0,South,0,0,0,Flat,0,,0,,0,Overcast,0,0,0,6,0,0,0,0,0,,0,1,Auckland Region,Nil,2-way,Sealed,0,0,0,0,100,0,Off,0,0,,Auckland,Nil,0,0,0,0,0,0,Open,0,0,0,Fine,Null,-36.785188342494,174.751042446005
+
+3040,,0,,1,1,,Null,2001/2002,TAREWA ROAD,ANZAC ROAD,,Non-Injury Crash,No,2002,,West,,0,,Hill Road,,,,,,Bright sun,0,0,0,3,,,0,,,,,,Northland Region,Nil,2-way,Sealed,,0,0,,50,,Off,0,0,,Whangarei District,Traffic Signals,,,,,0,0,Urban,0,,,Fine,Null,-35.73040154186,174.316854812658
+
+3120,,0,0,0,1,0,West,2001/2002,SH 1N,WEHIRUA ROAD,,Non-Injury Crash,Yes,2002,0,South,1,0,0,Flat,0,Queens Birthday,0,,0,Dark,0,0,0,2,0,0,0,0,0,,0,0,Northland Region,Nil,2-way,Sealed,0,0,0,0,100,0,None,0,0,,Far North District,Nil,0,0,0,0,0,0,Open,0,0,0,Light rain,Strong wind,-35.320355194973,173.790830822134
+
+3200,,0,,0,2,,Null,2001/2002,SHORWELL ST,FOWLDS AVENUE,,Non-Injury Crash,No,2002,,North,,0,,Flat,,,,,,Bright sun,0,0,0,2,,,0,,,,,,Auckland Region,Nil,2-way,Sealed,,0,0,,50,,Off,0,0,,Auckland,Stop,,,,,0,0,Urban,0,,,Fine,Null,-36.8873443509961,174.73279406774
+
+3280,,0,0,0,1,0,South,2002/2003,SH 94,KNOBS FLAT,,Minor Crash,Yes,2002,0,North,0,0,0,Flat,0,,0,,0,Bright sun,2,0,0,2,0,0,0,0,0,,0,0,Southland Region,Nil,2-way,Sealed,0,0,0,0,100,0,Null,0,0,,Southland District,Unknown,0,0,0,1,0,0,Open,0,0,0,Fine,Null,-44.9784654311238,168.01629413658
+
+3360,,0,,0,2,,Null,2001/2002,MOUNT WELLINGTON HIGHWAY,PANAMA ROAD,,Non-Injury Crash,No,2002,,North,,0,,Hill Road,,,,,,Dark,0,0,0,4,,,0,,,,,,Auckland Region,Nil,2-way,Sealed,,0,0,,50,,On,0,0,,Auckland,Traffic Signals,,,,,0,0,Urban,0,,,Light rain,Null,-36.9276887735932,174.842337708548
+
+3440,,0,,0,2,,East,2001/2002,KALMIA ST,STANWAY PLACE,,Non-Injury Crash,No,2002,,East,,0,,Flat,,,,,,Overcast,0,0,0,2,,,0,,,,,,Auckland Region,Nil,2-way,Sealed,,0,0,,50,,Off,0,0,,Auckland,Nil,,,,,0,0,Urban,0,,,Heavy rain,Null,-36.8989739493453,174.805858295128
+
+3520,,0,,0,2,,Null,2001/2002,PEACE ST,MCGARVEY ROAD,,Non-Injury Crash,No,2002,,West,,0,,Flat,,,,,,Overcast,0,0,0,2,,,0,,,,,,Bay of Plenty Region,Nil,2-way,Sealed,,0,0,,50,,Off,0,0,,Whakatane District,Stop,,,,,0,0,Urban,0,,,Light rain,Null,-37.9536348363383,176.986651451393
+
+3600,,0,0,0,2,0,North,2001/2002,PARALLEL ACCESS,TIDD ST,,Non-Injury Crash,No,2002,0,North,0,0,0,Hill Road,0,,0,,0,Dark,0,0,0,2,0,0,0,0,1,,0,1,Waikato Region,Nil,2-way,Sealed,0,0,0,0,50,0,On,0,0,,Hamilton City,Nil,0,0,0,0,0,0,Urban,0,0,0,Fine,Null,-37.8006982108468,175.280877358423
+
+3680,,0,0,0,2,0,South,2001/2002,ROKINO ROAD,TAHAREPA ROAD,,Non-Injury Crash,No,2002,0,East,0,0,0,Hill Road,0,,0,,0,Dark,0,0,0,2,0,0,0,0,1,,0,0,Waikato Region,Nil,2-way,Sealed,0,0,0,0,50,0,On,0,0,,Taupo District,Nil,0,0,0,0,0,0,Urban,0,0,0,Light rain,Null,-38.6978119684805,176.09022279385
+
+3760,,0,,0,1,,South,2001/2002,SH 1N,MOUNTAIN OBR,,Non-Injury Crash,Yes,2002,,South,,0,,Flat,,,,,,Dark,0,0,0,2,,,0,,,,,,Auckland Region,Nil,1-way,Sealed,,0,0,,50,,On,0,0,,Auckland,Nil,,,,,0,0,Urban,1,,,Fine,Null,-36.8691027220943,174.770591385036
+
+3840,,0,,0,2,,Null,2002/2003,SH 1N,OLD BAY ROAD,,Non-Injury Crash,Yes,2002,,West,,0,,Flat,,,,,,Overcast,0,0,0,2,,,0,,,,,,Northland Region,Nil,2-way,Sealed,,0,0,,100,,Off,0,0,,Far North District,Nil,,,,,0,0,Open,0,,,Light rain,Null,-35.3437176377356,173.905175300897
+
+3920,,0,0,0,2,0,Null,2002/2003,WHITE SWAN ROAD,RICHARDSON ROAD,,Non-Injury Crash,No,2002,0,North,0,0,0,Flat,0,,0,,0,Bright sun,0,0,0,2,0,0,0,0,0,,0,0,Auckland Region,Nil,2-way,Sealed,0,0,0,0,50,0,Off,0,0,,Auckland,Traffic Signals,0,0,0,0,0,0,Urban,0,1,0,Fine,Null,-36.9125631274742,174.727898095783
+
+4000,,0,,0,2,,East,2001/2002,MOUNT ALBERT ROAD,PAH ROAD,,Non-Injury Crash,No,2002,,West,,0,,Flat,,,,,,Bright sun,0,0,0,4,,,0,,,,,,Auckland Region,Nil,2-way,Sealed,,0,0,,50,,Off,0,0,,Auckland,Traffic Signals,,,,,0,0,Urban,0,,,Fine,Null,-36.9106598699468,174.769621097675
